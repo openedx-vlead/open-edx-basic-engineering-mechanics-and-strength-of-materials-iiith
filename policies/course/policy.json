@@ -1,0 +1,42 @@
+{
+    "course/course": {
+        "discussion_topics": {
+            "General": {
+                "id": "i4x-IIITH-eerc01-course-eerc01"
+            }
+        }, 
+        "display_name": "Strength of Materials Lab ", 
+        "tabs": [
+            {
+                "name": "Home", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Course", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/eerc01.xml", 
+                "course/eerc01.xml"
+            ]
+        }
+    }
+}
