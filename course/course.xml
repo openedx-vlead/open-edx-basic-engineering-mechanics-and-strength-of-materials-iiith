@@ -1,4 +1,4 @@
-<course display_name="Strength of Materials Lab ">
+<course advertised_start="Anytime" course_image="IIITH-Basic Engineering Mechanics and Strength of Materials.jpg" display_name="Basic Engineering Mechanics and Strength of Materials" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-09-29T00:00:00+00:00&quot;">
   <chapter url_name="Introduction"/>
   <chapter url_name="Tensile_Test_Experiment"/>
   <chapter url_name="Compression_Test_Experiment"/>
@@ -10,5 +10,6 @@
   <chapter url_name="Compression_Test_on_Spring_Experiment"/>
   <chapter url_name="Principal_Stresses_Experiment"/>
   <chapter url_name="Rockwell_Hardness_Experiment"/>
+  <chapter url_name="705d07cd900249faa75f0a0135f60302"/>
   <wiki slug="IIITH.som-eerc01.Anytime"/>
 </course>

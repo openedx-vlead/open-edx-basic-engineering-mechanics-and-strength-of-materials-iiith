@@ -1,0 +1,51 @@
+<problem display_name="Multiple Choice" markdown="1.The torque is applied along the center of axis of the shaft.&#10;()True&#10;()False&#10;&#10;2.The material is tested at steady state (absence of strain rate effects).&#10;()True&#10;()False&#10;&#10;3.Plane sections remain plane after twisting.&#10;()True&#10;()False&#10;&#10;4.Shear failure is along the maximum shear plane.&#10;()True&#10;()False&#10;&#10;5.Tensile failure is perpendicular to the maximum tensile stress.&#10;()True&#10;()False&#10;&#10;6.Modulus of rupture is also called as ultimate torsional shearing stress.&#10;()True&#10;()False&#10;&#10;&#10;&#10;&#10;">
+<p>1.The torque is applied along the center of axis of the shaft.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2.The material is tested at steady state (absence of strain rate effects).</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3.Plane sections remain plane after twisting.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4.Shear failure is along the maximum shear plane.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5.Tensile failure is perpendicular to the maximum tensile stress.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>6.Modulus of rupture is also called as ultimate torsional shearing stress.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
