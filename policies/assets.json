@@ -1,0 +1,26 @@
+{
+    "IIITH-Basic_Engineering_Mechanics_and_Strength_of_Materials.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EERC01", 
+            "name": "IIITH-Basic_Engineering_Mechanics_and_Strength_of_Materials.jpg", 
+            "org": "IIIT-Hyderabad", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "IIITH-Basic Engineering Mechanics and Strength of Materials.jpg", 
+        "filename": "asset-v1:IIIT-Hyderabad+EERC01+Anytime+type@asset+block@IIITH-Basic_Engineering_Mechanics_and_Strength_of_Materials.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-Hyderabad", 
+            "EERC01", 
+            "thumbnail", 
+            "IIITH-Basic_Engineering_Mechanics_and_Strength_of_Materials.jpg", 
+            null
+        ]
+    }
+}
