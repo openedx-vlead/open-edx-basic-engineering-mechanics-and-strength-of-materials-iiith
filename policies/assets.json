@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "EERC01", 
+            "course": "civil21", 
             "name": "IIITH-Basic_Engineering_Mechanics_and_Strength_of_Materials.jpg", 
-            "org": "IIIT-Hyderabad", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "IIITH-Basic Engineering Mechanics and Strength of Materials.jpg", 
-        "filename": "asset-v1:IIIT-Hyderabad+EERC01+Anytime+type@asset+block@IIITH-Basic_Engineering_Mechanics_and_Strength_of_Materials.jpg", 
+        "filename": "asset-v1:Virtual-Labs+civil21+Anytime+type@asset+block@IIITH-Basic_Engineering_Mechanics_and_Strength_of_Materials.jpg", 
         "import_path": "IIITH-Basic Engineering Mechanics and Strength of Materials.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIIT-Hyderabad", 
-            "EERC01", 
+            "Virtual-Labs", 
+            "civil21", 
             "thumbnail", 
             "IIITH-Basic_Engineering_Mechanics_and_Strength_of_Materials.jpg", 
             null
